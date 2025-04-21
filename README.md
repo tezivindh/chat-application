@@ -117,19 +117,26 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 </pre>
 
-🔧 Setup Instructions
+### 🔧 Setup Instructions
 
 1. Clone the Repository
 
-<pre>
-git clone https://github.com/tezivindh/chat-application.git
-cd chat-application</pre>
+   ```shell
+   git clone https://github.com/tezivindh/chat-application.git
+   cd chat-application
+   ```
 
 2. Build the app
-<pre>npm run build</pre>
 
-3. Start the App
-<pre>npm start</pre>
+   ```shell
+   npm run build
+   ```
+
+3. Start the app
+
+   ```shell
+   npm start
+   ```
 
 🤝 Contributing
 
