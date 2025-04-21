@@ -23,20 +23,20 @@ A fun real-time chat app with JWT authentication, 32 stunning themes, media uplo
 
 ### 🔐 Signup/Login Page
 
-![Signup Screenshot](screenshots/signup.png)
-![Login Screenshot](screenshots/login.png)
+![Signup Screenshot](https://res.cloudinary.com/dxgzgmmnp/image/upload/v1745260929/jjlfbtcxwmhkqn1pbtib.png)
+![Login Screenshot](https://res.cloudinary.com/dxgzgmmnp/image/upload/v1745260943/uqmbevd3oak38wwia4zs.png)
 
 &nbsp;
 
 ### 💬 Chat Interface
 
-![Chat Screenshot](screenshots/chat.png)
+![Chat Screenshot](https://res.cloudinary.com/dxgzgmmnp/image/upload/v1745260917/jkumoppkl6w1p7uokqc0.png)
 
 &nbsp;
 
 ### 🎨 Theme Selection (32 options!)
 
-![Themes Screenshot](screenshots/themes.png)
+![Themes Screenshot](https://res.cloudinary.com/dxgzgmmnp/image/upload/v1745260960/loz3iev66zlb0sb9jafz.png)
 
 &nbsp;
 
