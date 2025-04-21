@@ -100,6 +100,7 @@ chat-application/
 │       ├── pages/
 │       ├── store/
 │       └── App.jsx
+├── Screenshots
 ├── README.md
 └── package.json
 
