@@ -9,12 +9,12 @@ A fun real-time chat app with JWT authentication, 32 stunning themes, media uplo
 - ⚡ **Real-Time Chat** – Using Socket.IO for instant messaging
 - 🔐 **JWT Auth** – Signup/login with secure password hashing (bcrypt)
 - 🟢 **Online Users Sidebar** – See who’s currently active
-- 🧑‍🤝‍🧑 **Private & Group Chats** – Message 1-on-1 or chat in groups
+- 🧑‍🤝‍🧑 **Private & Group Chats** – Message 1-on-1 with users
 - 🖼️ **Image Uploads** – Upload and display images with Cloudinary
 - 🎨 **32 Themes** – Customize the look with a built-in theme switcher
-- 🪄 **Toasts & UX Polish** – React Hot Toast for snappy feedback
+- 🪄 **Hot Toasts** – React Hot Toast for snappy feedback
 - 🧠 **Zustand for State** – Clean and lightweight global state management
-- ⏰ **Day.js** – Display readable timestamps effortlessly
+- ⏰ **Day.js** – Display readable timestamps
 - 📱 **Responsive UI** – Looks and feels great on all devices
 
 ---
@@ -78,52 +78,6 @@ All changes apply live!
 
 ## 📁 Folder Structure
 
-🖼️ Screenshots
-🔐 Login Page
-
-
-
-💬 Chat Interface
-
-
-
-🎨 Theme Selection (32 options!)
-
-
-
-🛠️ Tech Stack
-
-Layer Technology
-Frontend React, Tailwind CSS, DaisyUI
-UI/UX Lucide React, React Hot Toast
-State Mgmt Zustand
-Time Display Day.js
-Backend Node.js, Express.js
-Auth/Security JWT, bcrypt
-Real-time Chat Socket.IO
-Image Hosting Cloudinary
-Database MongoDB
-⚙️ Settings Page – Personalize Your Vibe
-Switch between 32 stunning themes right from the Settings page – all built with DaisyUI.
-
-Themes include:
-
-☀️ Light
-
-🌙 Dark
-
-🐉 Fantasy
-
-🧊 Cyberpunk
-
-🍁 Autumn
-
-🐼 Black/White ...and more.
-
-All changes apply live!
-
-📁 Folder Structure
-
 <pre>
 chat-application/
 ├── backend/
@@ -163,7 +117,8 @@ cd chat-application</pre>
    <pre>
    npm start
    </pre>
-   ⚙️Setup .env file
+
+⚙️Setup .env file
 
 <pre>
 MONGODB_URI=mongodb+srv://your_username:your_password@cluster0.ggok6.mongodb.net/chat_db?retryWrites=true&w=majority&appName=Cluster0
