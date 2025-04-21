@@ -105,6 +105,18 @@ chat-application/
 
 </pre>
 
+⚙️Setup .env file
+
+<pre>
+MONGODB_URI=mongodb+srv://your_username:your_password@cluster0.ggok6.mongodb.net/chat_db?retryWrites=true&w=majority&appName=Cluster0
+PORT=5001
+JWT_SECRET=your_super_secret_jwt_key
+
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_API_KEY=your_cloudinary_api_key
+CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+</pre>
+
 🔧 Setup Instructions
 
 1. Clone the Repository
@@ -113,22 +125,11 @@ chat-application/
 git clone https://github.com/tezivindh/chat-application.git
 cd chat-application</pre>
 
-2. Start the app
-   <pre>
-   npm start
-   </pre>
+2. Build the app
+<pre>npm run build</pre>
 
-⚙️Setup .env file
-
-<pre>
-MONGODB_URI=mongodb+srv://your_username:your_password@cluster0.ggok6.mongodb.net/chat_db?retryWrites=true&w=majority&appName=Cluster0
-
-JWT_SECRET=your_super_secret_jwt_key
-
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_cloudinary_api_key
-CLOUDINARY_API_SECRET=your_cloudinary_api_secret
-</pre>
+3. Start the App
+<pre>npm start</pre>
 
 🤝 Contributing
 
